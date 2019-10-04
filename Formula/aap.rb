@@ -28,3 +28,4 @@ class Aap < Formula
     system "#{bin}/aap", "dummy"
   end
 end
+>
